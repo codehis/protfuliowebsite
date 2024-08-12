@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/protfuliowebsite/static/css/main.9e3117f3.css",
+    "main.js": "/protfuliowebsite/static/js/main.b1c83ccf.js",
+    "static/js/453.e84fd2db.chunk.js": "/protfuliowebsite/static/js/453.e84fd2db.chunk.js",
+    "static/media/here.mp4": "/protfuliowebsite/static/media/here.a286afb16626625bd2f1.mp4",
+    "static/media/pr.png": "/protfuliowebsite/static/media/pr.dd83de6b98106a2769c9.png",
+    "static/media/kareemPic.png": "/protfuliowebsite/static/media/kareemPic.afe80625d09e3451e4e5.png",
+    "static/media/resume.pdf": "/protfuliowebsite/static/media/resume.7576e5c80b045c992739.pdf",
+    "static/media/bg2.png": "/protfuliowebsite/static/media/bg2.c7e8e6d4d51130c7b3f2.png",
+    "index.html": "/protfuliowebsite/index.html",
+    "main.9e3117f3.css.map": "/protfuliowebsite/static/css/main.9e3117f3.css.map",
+    "main.b1c83ccf.js.map": "/protfuliowebsite/static/js/main.b1c83ccf.js.map",
+    "453.e84fd2db.chunk.js.map": "/protfuliowebsite/static/js/453.e84fd2db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e3117f3.css",
+    "static/js/main.b1c83ccf.js"
+  ]
+}
